@@ -1,0 +1,4 @@
+repository "Demented@phantalune@cloud"
+  path "/"
+    br "/main"
+    co "/main"
